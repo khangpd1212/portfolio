@@ -26,7 +26,17 @@ const projects = [
       "Reduced manual workload for receptionists and improved patient flow during peak hours.",
     techs: ["Vue 3", "Electron", "TypeScript"],
     company: "CTMedtech",
-    period: "Jan 2025 - Present",
+    period: "Jan 2025 - Mar 2025",
+  },
+   {
+    title: "Landing Page CTMedtech",
+    description:
+      "Company profile website built with Webflow. Optimized all pages for SEO with proper meta tags, heading structures, image alt texts, and fast-loading assets.",
+    impact: "Professional online presence with excellent SEO performance.",
+    techs: ["Webflow", "SEO", "Custom Domain"],
+    company: "CTMedtech",
+    period: "Dec 2024 - Jan 2025",
+    url: "https://ctmedtech.com",
   },
   {
     title: "DLS - Design Language System",
@@ -39,14 +49,19 @@ const projects = [
     period: "May 2023 - Dec 2023",
   },
   {
-    title: "Landing Page CTMedtech",
+    title: "CRM - Customer Relationship Management",
     description:
-      "Company profile website built with Webflow. Optimized all pages for SEO with proper meta tags, heading structures, image alt texts, and fast-loading assets.",
-    impact: "Professional online presence with excellent SEO performance.",
-    techs: ["Webflow", "SEO", "Custom Domain"],
-    company: "CTMedtech",
-    period: "Dec 2024 - Jan 2025",
-    url: "https://ctmedtech.com",
+      "Restructured CRM system with lead management, contact management features. Enabled sales teams to effectively manage customer relationships, track interactions, and analyze sales performance.",
+    impact:
+      "Better sales tracking and customer relationship management for teams.",
+    techs: [
+      "React.js",
+      "React Hook Form",
+      "TypeScript",
+      "TailwindCSS",
+    ],
+    company: "Tera Solutions",
+    period: "Jun 2023 - Apr 2024",
   },
   {
     title: "HRM - Human Resource Management",
@@ -63,21 +78,6 @@ const projects = [
     ],
     company: "Innotech VietNam",
     period: "Mar 2022 - May 2023",
-  },
-  {
-    title: "CRM - Customer Relationship Management",
-    description:
-      "Restructured CRM system with lead management, contact management features. Enabled sales teams to effectively manage customer relationships, track interactions, and analyze sales performance.",
-    impact:
-      "Better sales tracking and customer relationship management for teams.",
-    techs: [
-      "React.js",
-      "React Hook Form",
-      "TypeScript",
-      "TailwindCSS",
-    ],
-    company: "Tera Solutions",
-    period: "Jun 2023 - Apr 2024",
   },
 ];
 
